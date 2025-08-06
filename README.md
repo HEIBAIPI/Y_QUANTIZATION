@@ -1,2 +1,2 @@
 # Y_QUANTIZATION
-yzw的浅薄知识
+yzw's quantitative learning and trying
